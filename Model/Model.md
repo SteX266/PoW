@@ -25,6 +25,6 @@ Nonce - Broj koji "rudari" rešiti kako bi verifikovali blok
 
 
 
-[How do Bitcoin transactions work?] (https://www.bitcoin.com/get-started/how-bitcoin-transactions-work/)
-[Bitcoin: A Peer-to-Peer Electronic Cash System] (https://bitcoin.org/bitcoin.pdf)
-[Genesis block] (https://en.bitcoin.it/wiki/Genesis_block)
+[How do Bitcoin transactions work?](https://www.bitcoin.com/get-started/how-bitcoin-transactions-work/)
+[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+[Genesis block](https://en.bitcoin.it/wiki/Genesis_block)
