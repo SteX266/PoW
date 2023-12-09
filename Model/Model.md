@@ -1,5 +1,4 @@
 
-# Dekompo
 # Bitcoin model
 
 Ovaj deo rada posvećen je dekompoziciji *Bitcoina*, pioniru kripto valuta. Analizom bitcoina i njegovih ključnih komponenti, možemo dublje razumeti osnovne principe koji stoje iza većine kriptovaluta zasnovanih na *Proof of Work*(PoW) principu.
