@@ -13,3 +13,5 @@ Fokus ovog istraživanja je analiza sigurnosnih aspekata PoW sistema, s posebnim
 U folderu "Model" nalazi se dekompozicija primera PoW modela. Ovde su detaljno opisani ključni elementi, kao što su *blockchain*, transakcije, blokovi i sama PoW procedura. Ovo će pružiti čitaocima dublje razumevanje osnovnog modela koji se analizira.
 
 Folder "Pretnje" sadrži analizu različitih pretnji koje se mogu javiti u PoW modelu. Ovde se identifikuju potencijalne ranjivosti i bezbednosni izazovi koji mogu uticati na funkcionalnost i sigurnost sistema.
+
+U folderu literatura nalazi se sva literaturu koju sam koristio tokom istraživanja za ovaj rad.
